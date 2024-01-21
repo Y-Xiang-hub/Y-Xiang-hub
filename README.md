@@ -5,9 +5,6 @@
 - 🐔 A big fan of Counter-Strike.
 - 📧 Feel free to contact me at Yuexin.Xiang@monash.edu.
 
-<--*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Xiang-hub&layout=compact)](https://github.com/Y-Xiang-hub/github-readme-stats)
--->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Xiang-hub&show_icons=true&theme=radical)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Y-Xiang-hub/count.svg) visitor, thank you!😊
