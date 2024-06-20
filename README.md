@@ -2,7 +2,6 @@
 
 - 👓 I’m currently a PhD student at Monash University in Australia.
 - 💻 My research interests are around Blockchain, Cybersecurity, and Artificial Intelligence.
-- 🐔 A big fan of Counter-Strike.
 - 📧 Feel free to contact me at Yuexin.Xiang@monash.edu.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Xiang-hub&show_icons=true&theme=radical)
