@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuexin.
 
-- 👓 I’m currently a PhD student at Monash University in Australia.
+- 👓 I’m currently a PhD researcher at Monash University in Australia.
 - 💻 My research interests are around Blockchain, Cybersecurity, and Artificial Intelligence.
 - 📧 Feel free to contact me at Yuexin.Xiang@monash.edu.
 
