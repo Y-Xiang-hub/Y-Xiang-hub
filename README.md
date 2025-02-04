@@ -1,4 +1,4 @@
-### Hi there, I'm Yuexin.
+### Hi there, I'm Yuexin~
 
 - 🌏 I am a PhD researcher at the Faculty of Information Technology, **Monash University**, Australia.
 - ⚖️ My research interests lie in **Decentralization**, particularly within Blockchain, Cybersecurity, and Artificial Intelligence.
