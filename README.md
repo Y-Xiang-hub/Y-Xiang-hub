@@ -2,7 +2,7 @@
 
 - 🌏 I am a PhD researcher at the Faculty of Information Technology, **Monash University**, Australia.
 - ⚖️ My research interests lie in **Decentralization**, particularly within Blockchain, Cybersecurity, and Artificial Intelligence.
-- 🤝 Currently seeking collaboration opportunities on decentralization-focused research.
+- 🤝 Actively seeking collaboration opportunities on decentralization-focused research.
 - 📧 Feel free to contact me at **Yuexin.Xiang@monash.edu**.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Xiang-hub&show_icons=true&theme=radical)
